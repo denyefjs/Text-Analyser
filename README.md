@@ -61,8 +61,7 @@ The program:
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/text-analyser.git](https://github.com/denyefjs/Text-Analyser.git)
-
+git clone https://github.com/denyefjs/Text-Analyser.git
 
 2. Open the project in your IDE
 
