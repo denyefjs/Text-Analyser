@@ -3,7 +3,7 @@ Java console app that analyzes input text: word count, letter statistics, longes
 
 ---
 
-## 🚀 Features
+## Features
 
 The program analyzes the entered text and outputs:
 
@@ -19,7 +19,7 @@ The program analyzes the entered text and outputs:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The program:
 
@@ -31,7 +31,7 @@ The program:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Java
 - OOP basics (methods, structure, decomposition)
@@ -40,14 +40,14 @@ The program:
 
 ---
 
-## 📷 Example
+## Example
 
 <img width="737" height="494" alt="image" src="https://github.com/user-attachments/assets/9f623ef9-b98f-47b9-9c79-fbe3acb6d8c3" />
 
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Working with strings and characters in Java
 - Using loops and conditions effectively
@@ -57,7 +57,7 @@ The program:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -71,7 +71,7 @@ TextAnalyser_main.java
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Support for sentences counting  
 - Top 3 most frequent letters  
@@ -80,6 +80,6 @@ TextAnalyser_main.java
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Denys Yefremov
